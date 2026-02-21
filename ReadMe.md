@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-I am presently a Computer Science student at the German University of Technology (GUtech). My profound passion for Computer Science manifests itself in my intrigue towards every nuance of the technological field. I am a fervent advocate of perpetual learning and personal development, grounded in my firm belief that perfection is an elusive ideal. Thus, I continually strive to improve in every aspect of life, constantly seeking opportunities for growth and advancement.
+I am presently a Computer Science graduate at the German University of Technology (GUtech). My profound passion for Computer Science manifests itself in my intrigue towards every nuance of the technological field. I am a fervent advocate of perpetual learning and personal development, grounded in my firm belief that perfection is an elusive ideal. Thus, I continually strive to improve in every aspect of life, constantly seeking opportunities for growth and advancement.
 
 I am currently looking for remote or hybrid developer opportunities.
 
