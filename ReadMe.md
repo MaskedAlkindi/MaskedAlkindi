@@ -1,32 +1,58 @@
-# 💫 About Me:
+# 👋 Assalamu Alaikum | السلام عليكم
 
-I am presently a Computer Science graduate at the German University of Technology (GUtech). My profound passion for Computer Science manifests itself in my intrigue towards every nuance of the technological field. I am a fervent advocate of perpetual learning and personal development, grounded in my firm belief that perfection is an elusive ideal. Thus, I continually strive to improve in every aspect of life, constantly seeking opportunities for growth and advancement.
+## About Me
 
-I am currently looking for remote or hybrid developer opportunities.
+Hi, I'm **Hajid Alkindi**, a Software Engineer and Computer Science graduate from the **German University of Technology in Oman (GUtech)**.
 
+I enjoy building software products and solving real-world problems through technology. My experience covers **full-stack development, mobile applications, artificial intelligence solutions, and self-hosted infrastructure**. I like working across the entire development process, from designing systems and developing applications to deploying and managing reliable solutions.
 
+Throughout my journey, I have worked on different types of projects, including enterprise platforms, government websites, mobile applications, IoT systems, AI-powered tools, and infrastructure projects. I have experience with technologies such as **React, Next.js, React Native, Node.js, FastAPI, Django, Python, Docker, WireGuard, cloud platforms, and various database technologies**.
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Hajidalkindi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hajid-alkindi-93249321a) 
+Some of the projects I have worked on include:
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Scaleway](https://img.shields.io/badge/SCALEWAY-%234f0599.svg?style=for-the-badge&logo=scaleway&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Ionic](https://img.shields.io/badge/Ionic-%233880FF.svg?style=for-the-badge&logo=Ionic&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) ![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Bulma](https://img.shields.io/badge/bulma-00D0B1?style=for-the-badge&logo=bulma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=MaskedAlkindi&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=MaskedAlkindi&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MaskedAlkindi&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+- Developing the frontend of the **Oman Tax Authority website** as part of a digital transformation project, improving functionality, performance, and user experience.
+- Building **Kushk POS**, a cross-platform mobile Point of Sale application for Android and iOS with payment SDK integration through native modules.
+- Creating **Noodles VPN**, a cross-platform VPN application using React Native and WireGuard, including backend services for server management, configuration, and application features.
+- Developing **Masked Agent**, a real-time voice AI assistant built with Electron and Python, integrating speech processing, LLMs, automation workflows, and long-term memory systems.
+- Building **Masked Client**, a custom WireGuard desktop client with secure architecture, native VPN management, and automated connection handling.
+- Developing AI-powered applications involving document processing, computer vision, automation, and intelligent data extraction.
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=MaskedAlkindi&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+I completed my Bachelor's thesis through a semester exchange at **RWTH Aachen University, Germany**, where I developed a Smart Demonstration System based on IoT technologies. The project combined hardware integration, APIs, real-time communication, device control, automation, and data visualization.
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+Outside of professional work, I enjoy experimenting with new technologies, building personal projects, and understanding how systems work behind the scenes. I am especially interested in **software engineering, artificial intelligence, infrastructure, automation, and creating practical products that make an impact**.
+
+Currently, I am open to opportunities related to **Software Engineering, Full-Stack Development, AI Engineering, Mobile Development, and innovative technology projects**.
+
+🌐 **Website:** https://www.hajidalkindi.com/  
+💼 **LinkedIn:** https://linkedin.com/in/hajid-alkindi-93249321a  
+💻 **GitHub:** https://github.com/MaskedAlkindi
+
 
 ---
-[![](https://visitcount.itsvg.in/api?id=MaskedAlkindi&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/choosenone23) 
+# عني
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+أنا **حاجد الكندي**، مهندس برمجيات وخريج علوم الحاسب من **الجامعة الألمانية للتكنولوجيا في عمان (GUtech)**.
+
+أستمتع ببناء المنتجات البرمجية وحل المشاكل الواقعية باستخدام التقنية. لدي خبرة في **تطوير الأنظمة المتكاملة، تطبيقات الهواتف، حلول الذكاء الاصطناعي، والبنية التحتية المستضافة ذاتياً**. أحب العمل على جميع مراحل تطوير البرمجيات، بداية من تصميم الأنظمة وتطوير التطبيقات، وصولاً إلى نشر وإدارة الحلول البرمجية.
+
+خلال مسيرتي، عملت على مشاريع متنوعة تشمل المنصات المؤسسية، المواقع الحكومية، تطبيقات الهواتف، أنظمة إنترنت الأشياء، أدوات الذكاء الاصطناعي، ومشاريع البنية التحتية. لدي خبرة باستخدام تقنيات مثل **React، Next.js، React Native، Node.js، FastAPI، Django، Python، Docker، WireGuard، الخدمات السحابية، وقواعد البيانات المختلفة**.
+
+من أبرز المشاريع التي عملت عليها:
+
+- تطوير واجهة موقع **هيئة الضرائب العمانية** ضمن مشروع للتحول الرقمي بهدف تحسين الأداء وتجربة المستخدم.
+- تطوير تطبيق **Kushk POS** لنظام نقاط البيع على أنظمة iOS وAndroid مع دمج خدمات الدفع باستخدام وحدات أصلية.
+- بناء تطبيق **Noodles VPN** باستخدام React Native وWireGuard، مع تطوير الخدمات الخلفية لإدارة الخوادم وإعدادات التطبيق.
+- تطوير **Masked Agent**، مساعد صوتي يعتمد على الذكاء الاصطناعي باستخدام Electron وPython مع دمج معالجة الصوت، النماذج اللغوية، الأتمتة، والذاكرة طويلة المدى.
+- بناء **Masked Client**، تطبيق VPN مخصص لسطح المكتب مع نظام آمن لإدارة اتصالات WireGuard.
+- تطوير حلول تعتمد على الذكاء الاصطناعي لمعالجة المستندات، الرؤية الحاسوبية، الأتمتة، واستخراج البيانات.
+
+أنجزت مشروع التخرج الخاص بي من خلال برنامج تبادل أكاديمي في **RWTH Aachen University في ألمانيا**، حيث طورت نظام عرض وتجربة ذكي يعتمد على تقنيات إنترنت الأشياء (IoT)، يجمع بين التحكم بالأجهزة، واجهات البرمجة، الاتصال اللحظي، الأتمتة، وعرض البيانات.
+
+خارج نطاق العمل، أستمتع بتجربة التقنيات الجديدة، بناء المشاريع الشخصية، وفهم كيفية عمل الأنظمة من الداخل. أهتم بشكل خاص بـ **هندسة البرمجيات، الذكاء الاصطناعي، البنية التحتية، الأتمتة، وتحويل الأفكار إلى منتجات عملية**.
+
+حالياً مهتم بالفرص المتعلقة بـ **هندسة البرمجيات، تطوير الأنظمة المتكاملة، الذكاء الاصطناعي، تطبيقات الهواتف، والمشاريع التقنية المبتكرة**.
+
+🌐 **الموقع الشخصي:** https://www.hajidalkindi.com/  
+💼 **لينكدإن:** https://linkedin.com/in/hajid-alkindi-93249321a  
+💻 **جيت هب:** https://github.com/MaskedAlkindi
